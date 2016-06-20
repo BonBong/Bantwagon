@@ -1,3 +1,6 @@
+---
+output: word_document
+---
 
 **BANTWAGON MASTERCLASS NOTES**
 
